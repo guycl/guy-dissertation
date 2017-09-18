@@ -1,0 +1,13 @@
+firstName=small_expand
+secondName=small_collapse_matching
+nDims=3
+imgSpacing=1.0
+imgOrigin=0
+imgSize=30
+bgDensity=0
+vesselDensity=750
+secondObj=/rdo/home/cguy/tmp/collapse_matching_small.txt
+firstDensity=200
+firstObj=/rdo/home/cguy/tmp/expand_small.txt
+massRatio=1.00
+addNoise=1

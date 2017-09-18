@@ -1,0 +1,13 @@
+firstName=wedge_nomassloss_expand
+secondName=wedge_nomassloss_collapse
+nDims=3
+imgSpacing=1.0
+imgOrigin=0
+imgSize=150
+bgDensity=0
+vesselDensity=800
+secondObj=/rdoabc/caliper/atelectasis_studies/phantoms/data_creation/wedge_3d/shape_collapse_matching_large.txt
+firstDensity=350
+firstObj=/rdoabc/caliper/atelectasis_studies/phantoms/data_creation/wedge_3d/shape_expand_large.txt
+massRatio=0.995
+addNoise=1

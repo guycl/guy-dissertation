@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+Orientation = 1 0 0 0 1 0 0 0 1
+CenterOfRotation = 0 0 0
+Offset = 0.00000 0.00000 0.00000
+ElementSpacing = 1.00000 1.00000 1.00000
+DimSize = 150 150 150
+AnatomicalOrientation = RPS
+ElementNumberOfChannels = 1
+ElementType = MET_DOUBLE
+ElementDataFile = lungs_expand_nomassloss.raw

@@ -1,0 +1,17 @@
+name=sphere_2d_nomassloss_shift8_x
+nDims=2
+imgSpacing=1.0
+imgOrigin=0
+imgSize=513
+bgDensity=0
+firstCenterX=265
+firstCenterY=257
+firstCenterZ=257
+firstRadius=30
+firstDensity=1000
+secondCenterX=265
+secondCenterY=257
+secondCenterZ=257
+secondRadius=40
+massRatio=1.00
+addNoise=1

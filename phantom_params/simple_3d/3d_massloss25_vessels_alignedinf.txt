@@ -1,0 +1,13 @@
+firstName=massloss25_vessels_alignedinf_expand
+secondName=massloss25_vessels_alignedinf_collapse
+nDims=3
+imgSpacing=1.0
+imgOrigin=0
+imgSize=150
+bgDensity=0
+vesselDensity=800
+secondObj=/rdo/home/cguy/tmp/shape_collapse_matching_large.txt
+firstDensity=350
+firstObj=/rdo/home/cguy/tmp/shape_expand_vessels_large.txt
+massRatio=1.38
+addNoise=1

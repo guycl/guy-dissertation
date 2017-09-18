@@ -1,0 +1,9 @@
+name=
+nDims=
+imgSpacing=
+imgOrigin=
+imgSize=
+bgDensity=
+addNoise=
+objects=
+<x1>,<y1>,<z1>,<rad1>,<dens1>,<x2>,<y2>,<z2>,<rad2>,<mr>

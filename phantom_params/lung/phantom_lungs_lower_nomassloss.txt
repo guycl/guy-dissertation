@@ -1,0 +1,15 @@
+firstName=lungs_lower_expand_nomassloss
+secondName=lungs_lower_collapse_nomassloss
+nDims=3
+imgSpacing=1.0
+imgOrigin=0
+imgSize=150
+bgDensity=0.001
+featureDensity=800
+secondObj=/rdo/home/cguy/tmp/phantom/shape_lungs_collapse_lower.txt
+firstDensity=350
+firstObj=/rdo/home/cguy/tmp/phantom/shape_lungs_expand_lower.txt
+massRatio=1.05
+addNoise=1
+addFirstFeatures=0
+addSecondFeatures=0

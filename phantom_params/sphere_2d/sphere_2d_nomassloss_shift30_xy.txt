@@ -1,0 +1,17 @@
+name=sphere_2d_nomassloss_shift30_xy
+nDims=2
+imgSpacing=1.0
+imgOrigin=0
+imgSize=513
+bgDensity=0
+firstCenterX=287
+firstCenterY=287
+firstCenterZ=257
+firstRadius=30
+firstDensity=1000
+secondCenterX=287
+secondCenterY=287
+secondCenterZ=257
+secondRadius=40
+massRatio=1.00
+addNoise=1

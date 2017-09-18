@@ -1,0 +1,17 @@
+name=
+nDims=
+imgSpacing=
+imgOrigin=
+imgSize=
+bgDensity=
+firstCenterX=
+firstCenterY=
+firstCenterZ=
+firstRadius=
+firstDensity=
+secondCenterX=
+secondCenterY=
+secondCenterZ=
+secondRadius=
+massRatio=
+addNoise=

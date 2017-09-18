@@ -1,0 +1,17 @@
+name=sphere_2d_massloss50
+nDims=2
+imgSpacing=1.0
+imgOrigin=0
+imgSize=101
+bgDensity=0
+firstCenterX=50
+firstCenterY=50
+firstCenterZ=50
+firstRadius=30
+firstDensity=1000
+secondCenterX=50
+secondCenterY=50
+secondCenterZ=50
+secondRadius=40
+massRatio=0.50
+addNoise=1
